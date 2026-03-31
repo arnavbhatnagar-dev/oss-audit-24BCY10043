@@ -22,7 +22,7 @@ This script scans a log file and counts the occurrences of a keyword, i.e., "err
 ### Script 5 – Manifesto Generator
 This script takes input from the user and generates a personalized open-source philosophy statement.
 
-#How to Run
+# How to Run
 ```bash
 chmod +x script1.sh
 ./script1.sh
